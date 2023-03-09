@@ -1,0 +1,14 @@
+{
+  "name": "googlecalender",
+  "version": "1.0.0",
+  "description": "Simple example on Google Calendar API using oAuth And Google APIs in NodeJS.",
+  "main": "googleCalender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aloksharma",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^47.0.0"
+  }
+}
